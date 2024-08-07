@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class Practice {
 
-	@Tes
+	@Test
 	public void test()
 	{
 		int arr[]= {1,5,2,3,6};
